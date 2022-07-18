@@ -1,0 +1,44 @@
+h1
+{
+    font-family: "Dancing Script", Verdana, sans-serif ;
+    background-color: royalblue;
+    text-align: center;
+    font-size: 60px;
+    color: gold;
+    font-weight: bold;
+}
+
+img
+{
+    width: 500px; 
+    height: 400px;
+}
+
+li
+{
+    color: #ff0800;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+a
+{
+    color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+h3
+{
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+    color: royalblue;
+    font-size: 30px;
+}
+
+p
+{
+    color: #ff0800;
+    font-family: 'Courier New', Courier, monospace;
+}
